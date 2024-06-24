@@ -6,8 +6,8 @@ A IOS journaling app.
 
 Added the following features:
 
-Add and remove posts
-Edit posts
-Add multiple photos
-Add tags and search similar tagged posts.
-Dark mode
+- Add and remove posts
+- Edit posts
+- Add multiple photos
+- Add tags and search similar tagged posts.
+- Dark mode
